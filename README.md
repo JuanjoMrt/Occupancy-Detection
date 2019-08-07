@@ -1,5 +1,7 @@
 # Occupacy-Detection
-
+[![languaje](https://img.shields.io/badge/languaje-python-blue)](https://www.python.org/)
+[![made-with-latex](https://img.shields.io/badge/Made%20with-LaTeX-1f425f.svg)](https://www.latex-project.org/)
+[![license](https://img.shields.io/github/license/JuanjoMrt/Occupacy-Detection)](https://github.com/JuanjoMrt/Occupacy-Detection/blob/master/LICENSE)
 
 ## Introduction
 Internet of thing has been one of the greatest advances in our digital era, with this small computers we can make our lifes easier that never before. However one of the biggest concerns about this technology is that they tipically rely on cameras and microphones to provide us useful information.
