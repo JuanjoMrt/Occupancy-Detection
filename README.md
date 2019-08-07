@@ -2,7 +2,7 @@
 
 
 ## Introduction
-Internet of thing is righ now one of the biggest advances in our digital era with this small computers we can make our lifes easier that never before. However one of the biggest concerns about this technology is that they rely on cameras and microphones to provide us useful information.
+Internet of thing has been one of the greatest advances in our digital era, with this small computers we can make our lifes easier that never before. However one of the biggest concerns about this technology is that they tipically rely on cameras and microphones to provide us useful information.
 
 Our objetive consist in a non intrusive way (without the use of cameras or microphones) of detecting if a room is occupied or not. To address this problem we will use the 'Occupancy Detection Data Set', free and open to the public on the web portal of the UCI.
 This database consists of a set of observations made by sensors and then checked using photographs taken every minute to discern the occupancy and values of sensors that were considered relevant. So a human factor provided the clasiﬁcacíon through photographs and it is intended to use environmental sensors to achieve the same goal but reduce intrusion.
