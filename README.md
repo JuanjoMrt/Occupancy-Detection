@@ -13,7 +13,7 @@ This database consists of a set of observations made by sensors and then checked
 The data set used for this study was [Occupancy Detection Data Set](https://archive.ics.uci.edu/ml/datasets/Occupancy+Detection+/)
 
 ## About the study
-This study is developed as part of the Mcahine learning course of the University of Granada that is the reason why it is in Spanish. Nevertheless we intend to translate it into English soon.
+This study is developed as part of the Machine learning course of the University of Granada that is the reason why it is in Spanish. Nevertheless we intend to translate it into English soon.
 
 ## Authors
 * **Juan Jose Martín** - [JuanjoMrt](https://github.com/JuanjoMrt)
